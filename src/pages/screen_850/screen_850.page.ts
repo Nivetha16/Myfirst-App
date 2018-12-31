@@ -10,7 +10,7 @@ import {  } from '../pages';
 export class Screen_850Page{
     employeedetails: IEmployeeDetails = {
     	id: 0,
-    	name: '',	name: '',	doj: '',	dob: '',	employeenumber: 0,	address: ''
+    	name: '',	lastname: '',	doj: '',	dob: '',	employeenumber: 0,	address: ''
     }
     ;
 

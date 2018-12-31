@@ -1,7 +1,7 @@
 export interface IEmployeeDetails {
     id: number;
     name: string;
-    name: string;
+    lastname: string;
     doj: string;
     dob: string;
     employeenumber: number;
